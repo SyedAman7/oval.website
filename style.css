@@ -1,0 +1,169 @@
+.background {
+    background-color: #F5F6F9;
+    text-align: center;
+}
+
+.Dedicated-and-people {
+    font-family: Rubik Mono One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 59px;
+    color: #64626A;
+    text-align: center;
+}
+
+.arrow {
+    color: #ffffff;
+}
+
+.nav-li {
+    float: right;
+    list-style: none;
+    margin: 13px 20px;
+}
+
+.navbar-nav {
+    overflow: auto;
+}
+
+.navbar {
+    background-color: #f5f6f9;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.container-para {
+    margin: auto;
+    padding: 20px 20px;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 42px;
+    letter-spacing: 0.1px;
+}
+
+.for-four {
+    text-align: left;
+}
+
+.not-para {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.container-next {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.project-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.We-build-more-than {
+    height: 126px;
+    left: 34.07%;
+    right: 0%;
+    top: calc(50% - 126px/2 + 158.5px);
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 42px;
+    letter-spacing: 0.1px;
+    padding: 10%;
+    padding-right: 20%;
+    width: 100%;
+    color: #3B3A40;
+}
+
+.OUR-PROJECTS {
+    height: 118px;
+    left: 10.42%;
+    font-family: Rubik Mono One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 59px;
+    letter-spacing: 0.666667px;
+    color: #8E8C95;
+}
+
+.Our-work {
+    height: 76px;
+    left: 44.24%;
+    right: 18.82%;
+    top: calc(50% - 76px/2 - 1021.5px);
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 38px;
+    letter-spacing: 0.0833333px;
+    color: #3B3A40;
+}
+
+.We-build-more-than {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    padding: 5px 120px 5px 120px;
+    font-size: 24px;
+    line-height: 42px;
+    letter-spacing: 0.1px;
+    color: #3B3A40;
+    max-width: X px;
+}
+
+.Create-Design {
+    font-family: Rubik Mono One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 89px;
+    letter-spacing: 1px;
+    color: #8E8C95;
+}
+
+.Visual-container {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.2px;
+    color: #3B3A40;
+}
+
+.We-are-a-team {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.15px;
+    color: #3B3A40;
+}
+
+.Oval-is-not {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 52px;
+    letter-spacing: 0.266667px;
+    padding: 10%;
+    padding-right: 20%;
+    width: 100%;
+    color: #3B3A40;
+}
+
+.container {
+    padding: 30px;
+    margin: auto;
+}
